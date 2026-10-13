@@ -1,4 +1,4 @@
-# Python-fundamentals
+
 <div align="center">
 
 # 🐍 Python Fundamentals
