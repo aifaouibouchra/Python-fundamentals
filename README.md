@@ -41,15 +41,13 @@ The repository will grow as I study new topics and solve more challenging proble
 | 06 | Dictionaries and Sets | Planned |
 | 07 | Strings | Planned |
 
-> **Note:** Progress labels are a template. Update them to reflect what you have actually studied and completed.
-
 ## 🗂️ Project Structure
 
 ```text
 python-fundamentals/
 ├── README.md
 ├── 01_loops/
-│   └── exercise_01.py
+│   └── if,for and while.py
 ├── 02_data structure/
 │   ├── exercise_01.py
 │   └── exercise_02.py
