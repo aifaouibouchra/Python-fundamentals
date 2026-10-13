@@ -33,9 +33,9 @@ The repository will grow as I study new topics and solve more challenging proble
 
 | # | Topic | Progress |
 |---|---|---|
-| 01 | Variables and Data Types | Update as you learn |
-| 02 | Conditional Statements (`if`, `elif`, `else`) | In progress |
-| 03 | Loops (`for`, `while`) | Coming next |
+| 01 | Variables and Data Types | Done |
+| 02 | Conditional Statements (`if`, `elif`, `else`) | Done |
+| 03 | Loops (`for`, `while`) | Done |
 | 04 | Functions | Planned |
 | 05 | Lists and Tuples | Planned |
 | 06 | Dictionaries and Sets | Planned |
@@ -48,29 +48,16 @@ The repository will grow as I study new topics and solve more challenging proble
 ```text
 python-fundamentals/
 ├── README.md
-├── 01_variables/
+├── 01_loops/
 │   └── exercise_01.py
-├── 02_conditions/
+├── 02_data structure/
 │   ├── exercise_01.py
 │   └── exercise_02.py
-└── 03_loops/
+└── 03_libraries/
     └── ...
 ```
 
 *The folder names above are examples. Keep this structure in sync with your actual repository.*
-
-## ▶️ Run an Exercise
-
-1. Install Python 3 if it is not already installed.
-2. Clone or download this repository.
-3. Open the exercise file in your preferred editor.
-4. Run it from your terminal:
-
-```bash
-python exercise_01.py
-```
-
-Depending on your setup, you may need to use `python3` instead of `python`.
 
 ## 🧠 My Practice Method
 
@@ -86,8 +73,7 @@ For each exercise, I aim to:
 
 - **Language:** Python
 - **Version control:** Git and GitHub
-- **Editor:** Add the editor you actually use
-
+ 
 ## 🚀 What's Next?
 
 I plan to keep adding exercises as I progress through Python, then apply these skills to practical data analysis projects.
