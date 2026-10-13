@@ -47,7 +47,7 @@ The repository will grow as I study new topics and solve more challenging proble
 python-fundamentals/
 ├── README.md
 ├── 01_loops/
-│   └── if,for and while.py
+│   └── if,while and for.py
 ├── 02_data structure/
 │   ├── exercise_01.py
 │   └── exercise_02.py
